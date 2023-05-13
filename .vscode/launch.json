@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/twincode/Desktop/Steve_Jobs_Academy/Materie-1°-Anno/ WEB_Front-End/XBOX",
+      "program": "/Users/twincode/Desktop/Steve_Jobs_Academy/Materie-1°-Anno/ WEB_Front-End/XBOX/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
